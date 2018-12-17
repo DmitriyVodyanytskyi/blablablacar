@@ -1,4 +1,4 @@
-package examples.actors
+package examples.actors.producers
 
 import scala.actors.Actor
 import scala.actors.Actor._
